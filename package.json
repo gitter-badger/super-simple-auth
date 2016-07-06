@@ -1,6 +1,6 @@
 {
   "name": "super-simple-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super Simple User Auth",
   "url": "https://github.com/dbroadhurst/super-simple-auth",
   "main": "index.js",
