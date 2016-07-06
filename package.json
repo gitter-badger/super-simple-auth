@@ -1,0 +1,12 @@
+{
+  "name": "super-simple-auth",
+  "version": "1.0.0",
+  "description": "Super Simple User Auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['auth', 'node', 'user'],
+  "author": "David Broadhurst",
+  "license": "MIT"
+}
