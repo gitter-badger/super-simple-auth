@@ -1,11 +1,10 @@
 {
   "name": "super-simple-auth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Super Simple User Auth",
-  "repository" :
-  {
-    "type" : "git",
-    "url" : "https://github.com/dbroadhurst/super-simple-auth"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dbroadhurst/super-simple-auth"
   },
   "main": "index.js",
   "scripts": {
